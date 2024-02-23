@@ -1,7 +1,10 @@
 **Installing ESP8266 Board Support**
 To program and work with ESP8266 microcontrollers using the Arduino IDE, you need to install the ESP8266 board support package. Follow these steps:
 
-Step 1: Add Board URL Link
+**Step 1: Add Board URL Link**
+
+
+
 1 . Open Arduino IDE.
 2. Go to File > Preferences.
 3. In the "Additional Board Manager URLs" field, add the following URL:
