@@ -8,6 +8,8 @@ Step 1: Add Board URL Link
 bash
 **http://arduino.esp8266.com/stable/package_esp8266com_index.json**
 Click OK to close the Preferences window.
+
+
 **Step 2: Install ESP8266 Board Package**
 Navigate to Tools > Boards > Board Manager.
 In the search bar, type "NodeMCU".
